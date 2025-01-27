@@ -19,6 +19,7 @@ project:
     - title: "Prerequisites"
       children:
         - file: src/prerequisites/linux-intro.md
+        - file: src/prerequisites/install-conda.md
 
 site:
   template: book-theme
