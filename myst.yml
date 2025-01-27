@@ -16,6 +16,9 @@ project:
         - file: src/syllabus/overview.md
         - file: src/syllabus/objectives.md
         - file: src/syllabus/activities.md
+    - title: "Prerequisites"
+      children:
+        - file: src/prerequisites/linux-intro.md
 
 site:
   template: book-theme
