@@ -1,4 +1,8 @@
 Makefile
+.ipynb_checkpoints/
+
+# Data directory
+data/
 
 # MyST build outputs
 _build

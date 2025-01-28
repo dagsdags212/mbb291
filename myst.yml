@@ -1,28 +1,21 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
   id: f42961c9-8539-4063-98c2-3ac1ee45ff69
   title: MBB 291
   description: Long Read Sequencing Applications in Plant and Animal Pathogen Genomics and Metagenomics
-  # keywords: []
-  authors: [Jan Emmanuel Samson]
+  keywords: [long-read sequencing, metagenomics]
+  authors: []
   github: https://github.com/dagsdags212/mbb291
 
   # Table of contents
   toc:
-    - file: index.md
-    - title: "Syllabus"
-      children:
-        - file: src/syllabus/overview.md
-        - file: src/syllabus/objectives.md
-        - file: src/syllabus/activities.md
+    - file: sections/index.ipynb
     - title: "Prerequisites"
       children:
-        - file: src/prerequisites/linux-intro.md
-        - file: src/prerequisites/install-conda.md
+        - file: sections/prerequisites/linux-intro.ipynb
+        - file: sections/prerequisites/conda-setup.ipynb
 
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    logo_text: MBB 291
