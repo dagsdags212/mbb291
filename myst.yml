@@ -10,10 +10,13 @@ project:
   # Table of contents
   toc:
     - file: sections/index.ipynb
-    - title: "Prerequisites"
+    - title: "Tutorials"
       children:
-        - file: sections/prerequisites/linux-intro.ipynb
-        - file: sections/prerequisites/conda-setup.ipynb
+        - file: sections/tutorials/linux-intro.ipynb
+        - file: sections/tutorials/conda-setup.ipynb
+    - title: "Week 1"
+      children:
+        - file: sections/wk_01/index.md
 
 site:
   template: book-theme
