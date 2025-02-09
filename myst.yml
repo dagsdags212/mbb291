@@ -10,6 +10,7 @@ project:
   # Table of contents
   toc:
     - file: sections/index.ipynb
+    - file: sections/class_schedule.md
     - title: "Tutorials"
       children:
         - file: sections/tutorials/linux-intro.ipynb
