@@ -22,4 +22,5 @@ project:
 site:
   template: book-theme
   options:
+    logo: images/cover.jpg
     logo_text: MBB 291
