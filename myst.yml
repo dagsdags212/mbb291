@@ -13,11 +13,13 @@ project:
     - file: sections/class_schedule.md
     - title: "Tutorials"
       children:
-        - file: sections/tutorials/linux-intro.ipynb
         - file: sections/tutorials/conda-setup.ipynb
     - title: "Week 1"
       children:
-        - file: sections/wk_01/index.md
+        - file: sections/wk01/index.md
+    - title: "Week 2"
+      children:
+        - file: sections/tutorials/linux-intro.ipynb
 
 site:
   template: book-theme
