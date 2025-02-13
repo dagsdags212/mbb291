@@ -19,7 +19,7 @@ project:
         - file: sections/wk01/index.md
     - title: "Week 2"
       children:
-        - file: sections/tutorials/linux-intro.ipynb
+        - file: sections/wk02/linux-intro.ipynb
 
 site:
   template: book-theme
