@@ -11,9 +11,9 @@
 
 **Hands-on Activities**
 
-- [ ] Basics of UNIX terminal commands and CLI
+- [x] Basics of UNIX terminal commands and CLI
+- [x] VSCode, Jupyter Lab
 - [ ] Conda environment
-- [ ] Jupyter Lab
 - [ ] Installation of packages and applications
 
 ## Week 4
