@@ -17,6 +17,7 @@ project:
     - title: "Week 1"
       children:
         - file: sections/wk01/index.md
+        - file: sections/wk01/advantages_and_disadvantages.md
     - title: "Week 2"
       children:
         - file: sections/wk02/linux-intro.ipynb
