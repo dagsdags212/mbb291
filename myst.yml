@@ -22,6 +22,9 @@ project:
       children:
         - file: sections/wk02/linux-intro.ipynb
         - file: sections/wk02/terminal_shortcuts.md
+    - title: "Week 4"
+      children:
+        - file: sections/wk04/index.md
 
 site:
   template: book-theme
