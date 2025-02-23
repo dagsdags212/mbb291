@@ -16,9 +16,13 @@ downloads:
 DNA is _threaded_ across the nanopore.
 :::
 
-:::{figure} https://www.researchgate.net/profile/Zahra_Narimani/publication/278709120/figure/fig18/AS:667922129240075@1536256453429/Schematic-representation-of-nanopore-sequencing-system-1-The-upper-protein-is-used-to.png
-:align: center
-:::
+DNA can be sequences by threading it through a microscopic pore in a membrane.
+Bases are identified by the way they affect ions flowing through the pore from one side of the membrane to the other.
+
+1. One protein (colored in purple) unzips the DNA helix into two strands
+2. A second protein (colored in blue) creates a pore in the membrane and hols an _adapter_ molecule
+3. The flow of ions through the pore creates a current. Each base blocks the flow to a different degree, altering the current
+4. The adapter molecule keeps bases in place long enough for them to be identified electronically
 
 ## What are R9.4/R9.5/R10.3/R10?
 
