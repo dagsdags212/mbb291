@@ -1,6 +1,9 @@
 Makefile
 .ipynb_checkpoints/
 
+# Markdown files
+TODO.md
+
 # Data directory
 data/
 
